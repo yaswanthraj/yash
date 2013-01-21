@@ -1,0 +1,12 @@
+1.Download Createcommand.sh
+2.(Say it is downloaded to Downloads)
+root@bt:~/Downloads#  chmod 777 Createcommand.sh
+root@bt:~/Downloads#  ./Createcommand.sh Createcommand.sh Createcommand
+3.Done!!!
+
+Now..
+You can create a simple sh file with commands in it.
+say sample.sh that has - "ls"
+to create a command "sampleexec" that executes "ls" at any path..
+just type in - 'Createcommand sample.sh sampleexec'
+done!
