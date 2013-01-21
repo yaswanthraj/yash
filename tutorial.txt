@@ -9,4 +9,4 @@ You can create a simple sh file with commands in it.
 say sample.sh that has - "ls"
 to create a command "sampleexec" that executes "ls" at any path..
 just type in - 'Createcommand sample.sh sampleexec'
-done!
+Now just type in 'sample' anywhere in your shell..it will execute sample.sh! :D
